@@ -16,8 +16,12 @@ html {
     font-size: 12px;
     letter-spacing: 5px;
 }
-.navbar-nav  li a:hover {
+.navbar-nav li a:hover {
     color: #1abc9c !important;
+}
+
+.navbar-header:hover {
+  cursor:default;
 }
 
 .footer-padding {
